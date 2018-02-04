@@ -19,6 +19,6 @@ Install required packages using pip:
 
 Run the main.py program, it will do the follow:
 
-* Download files .csv tables with electric energy system and save them in directory /data.
+* Download files .csv tables with electric energy system data and save them in directory /data.
 
 
